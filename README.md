@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+## I am Shriprada Shivakumar
 <!--
 **shripradashivakumar/shripradashivakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## About Me
+Software Developer interested in frontend development, exploring web and app development using react and react native.
+
