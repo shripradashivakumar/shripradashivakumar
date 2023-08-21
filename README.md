@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-Software Developer interested in frontend development, exploring web and app development using react and react native.
+Frontend developer exploring web app and ios/android app development using react and react native.
+Love JavaScript. _I still don't know JS_ :smile:
 
