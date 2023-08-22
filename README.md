@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
--Frontend developer, located in Bangalore, India.
--Love JavaScript. _I still don't know JS_ :smile:
--Exploring Web and Mobile app development using React and React Native.
+- Frontend developer, located in Bangalore, India.
+- Love JavaScript. _I still don't know JS_ :smile:
+- Exploring Web and Mobile app development using React and React Native.
 
 
