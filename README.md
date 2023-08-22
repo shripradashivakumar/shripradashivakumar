@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
-Frontend developer exploring web app and ios/android app development using react and react native.
-Love JavaScript. _I still don't know JS_ :smile:
+-Frontend developer, located in Bangalore, India.
+-Love JavaScript. _I still don't know JS_ :smile:
+-Exploring Web and Mobile app development using React and React Native.
+
 
